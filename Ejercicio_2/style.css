@@ -9,7 +9,7 @@ table {
 	background: black;
 }
 td {
-    width: 5em; height: 5em;
+    width: 8em; height: 8em;
     font-size: 12px;
     visibility: visible;
 }
@@ -31,12 +31,18 @@ tr:nth-child(even) td:nth-child(even), tr:nth-child(odd) td:nth-child(odd) {
 
 
 
-tr>td>p:hover{
+tr>td:hover p{
     visibility: visible;
-    color: blue;
+
+}
+
+tr>td:hover{
+    background-color: red;
+
 }
 
 td>p{
+    color: blueviolet;
     text-align: center;
-    visibility: visible;
+    visibility: hidden;
 }
