@@ -130,7 +130,7 @@ label{
 }
 
 .section-footer{
-    display: inline;
+    display: inline-block;
     margin: 0 15%;
 }
 
