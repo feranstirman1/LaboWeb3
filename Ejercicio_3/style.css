@@ -1,0 +1,129 @@
+/*parametros preliminares */
+body{
+    margin: auto;
+    padding: 5px 10px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    
+}
+
+h1{
+    font-size: 3em;
+    margin-bottom: 0.5em;
+}
+h2{
+    font-size: 2em;
+    margin-top: 0%;
+}
+
+.btn, .btn div{
+    display: inline-block;
+    padding: 10px;
+    margin-left: 0;
+    border-radius: 8px;
+    margin-top: 0%;
+    margin-right: 1.3em;
+}
+/*tamaños de letras*/
+#normal, #normal a{
+    font-size: 1.5em;
+}
+#grande{
+    font-size: 2em;
+}
+
+/*fondos y letras de colores */
+.fondo-simple{
+    background-color: #f4f3f2;
+}
+.letra-simple, .letra-simple a{
+    color: #787878;
+}
+
+.fondo-esmeralda{
+    background-color: #57d68d;
+}
+.letra-esmeralda a{
+    color: #57d68d;
+}
+
+.fondo-cielo{
+    background-color: #5cace2;
+}
+.letra-cielo a{
+    color: #5cace2;
+}
+
+.fondo-amatista{
+    background-color: #ae7ac4;
+}
+.letra-amatista a{
+    color: #ae7ac4;
+}
+
+.fondo-asfalto{
+    background-color: #5c6d7e;
+}
+.letra-asfalto a{
+    color: #5c6d7e;
+}
+
+.fondo-topazio{
+    background-color: #ea974e;
+}
+.letra-topazio a{
+    color: #ea974e;
+}
+
+.fondo-rubi{
+    background-color: #eb6f62;
+}
+.letra-rubi a{
+    color: #eb6f62;
+}
+
+.letra-blanca a{
+    color: white;
+}
+/*quitar underline a los links */
+.btn a{
+    text-decoration: none;
+}
+
+/*bordes de colores*/
+.borde-simple{
+    border-color: #787878;
+    border-width: 1px ;
+    border-style: solid;
+}
+.borde-esmeralda{
+    border-color: #57d68d;
+    border-width: 1px;
+    border-style: solid;
+}
+.borde-cielo{
+    border-color: #5cace2;
+    border-width: 1px;
+    border-style: solid;
+}
+.borde-amatista{
+    border-color: #ae7ac4;
+    border-width: 1px;
+    border-style: solid;
+}
+.borde-asfalto{
+    border-color: #5c6d7e;
+    border-width: 1px;
+    border-style: solid;
+}
+.borde-topazio{
+    border-color: #ea974e;
+    border-width: 1px;
+    border-style: solid;
+}
+.borde-rubi{
+    border-color: #eb6f62;
+    border-width: 1px;
+    border-style: solid;
+}
