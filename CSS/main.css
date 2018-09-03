@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+html{
+    background-image: url(img/fondomain.jpg);
+    background-repeat: repeat;
+
+}
+
+header{
+    background-color: #a32323;
+}
+
+header h1{
+    color: white;
+    font-size: 5em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+}
+
+h2{
+    margin-top: 1em;
+    text-align: center;
+    font-size: 4em;
+    color: white;
+    text-decoration: underline;
+}
+
+.btn a{
+    text-decoration: none;
+    font-size: 2em;
+    color: white;
+    text-align: center;
+}
+
+.btn{
+    margin: 0 auto;
+    width: 20%;
+}
+
+h3{
+    font-size: 3em;
+    text-align: center;
+}
+
+.fondo-verde{
+    background-color: #930024;
+}
+.fondo-azul{
+    background-color: #fc7907;
+}
+.fondo-dorado{
+    background-color: #fc07e3;
+}
+
+.separation{
+    margin-top: 1.8em;
+    margin-bottom: 1.8em;
+}
+
+#centrado{
+    text-align: center;
+}
+
+a:hover{
+    color: #43ff00;
+}
+
